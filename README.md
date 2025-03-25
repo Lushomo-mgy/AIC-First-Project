@@ -1,6 +1,6 @@
-# Computing Services Mini Company
+# All-in Computing Limited
 
-Welcome to the Computing Services Mini Company project! This project is designed to provide a simple yet effective web presence for a computing services company.
+Welcome to the All-in Computing Limited project! This project is designed to provide a simple yet effective web presence for a computing services company.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to the Computing Services Mini Company project! This project is designed
 
 ## Introduction
 
-The Computing Services Mini Company offers a range of computing services tailored to meet the needs of individuals and businesses. Our goal is to provide high-quality services that enhance productivity and efficiency.
+The All-in Computing Limited Company offers a range of computing services tailored to meet the needs of individuals and businesses. Our goal is to provide high-quality services that enhance productivity and efficiency.
 
 ## Features
 
