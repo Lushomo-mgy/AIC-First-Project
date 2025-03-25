@@ -1,0 +1,23 @@
+{
+  "name": "computing-services-mini-company",
+  "version": "1.0.0",
+  "description": "A mini company providing computing services.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet'",
+    "test": "echo 'No tests defined yet'"
+  },
+  "keywords": [
+    "computing",
+    "services",
+    "web",
+    "company"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
